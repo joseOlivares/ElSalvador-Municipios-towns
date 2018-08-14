@@ -1,5 +1,5 @@
 # tools
-Some cool stuffs you can use on your web projects.
+Some code pieces and cool stuffs you can use on your web projects.
 
 Descripción de archivos (Files description):
 
