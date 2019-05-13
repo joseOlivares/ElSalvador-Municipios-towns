@@ -1,0 +1,11 @@
+/*Archivo CSS personalizado*/
+
+/* quitando logos*/
+.lfMn.lotusui30 .lotusBanner .lotusLogo {
+    visibility: hidden !important;
+}
+
+.lotusBranding {
+  visibility: hidden !important;
+}
+/*----------------------------*/
