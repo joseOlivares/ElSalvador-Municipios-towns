@@ -1,10 +1,11 @@
-# tools
-Some code pieces and cool stuffs you can use on your web projects.
+# Array Municipios de El Salvador (El Salvador Town's)
 
-Descripción de archivos (Files description):
 
---ElSalvadorTowns.js
+Conjunto de  Arrays con los municipios de los 14 departamentos de El Salvador para ser utilizados en tu código.
 
-    Conjunto de  Arrays con los municipios de los 14 departamentos de El Salvador para ser utilizados en tu código.
+(Set of arrays  with all towns by State  from El Salvador to be used in your projects). 
+    
 
-    (These are arrays  with all towns by State  from El Salvador). 
+ Hi my name is Jose Olivares, if this code is useful to you, please endorse my skills on Linkedin (https://www.linkedin.com/in/jolivaress/)
+ 
+ Hola, por favor valida mis habilidades en mi perfil de Linkedin.
