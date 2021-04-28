@@ -3,7 +3,7 @@
 	LinkedIn: www.linkedin.com/in/jolivaress/
 	Mail: joseluis_503@yahoo.com
 	Descripcion: Arrays con los municipios de los 14 departamentos de El Salvador
-	Description: These are arrays  with all towns by State  from El Salvador. 
+	Description: These are arrays  with all towns by State, El Salvador. 
 	Versión: 1.0.0
 
 */
